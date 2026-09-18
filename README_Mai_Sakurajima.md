@@ -134,6 +134,7 @@
 <a href="https://www.linkedin.com/in/yash-verma-304131406/"><img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="mailto:yash06763@mail.com"><img src="https://img.shields.io/badge/Email-Send_a_Scroll-9b5de5?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 <a href="https://discord.com/users/1264106571659739178"><img src="https://img.shields.io/badge/Discord-My_Cave-2e51a2?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
+<a href="https://x.com/maalikk__"><img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="x"/></a>
 <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-My_Status_Panel-ff6fb5?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio"/></a>
 
 <br/><br/>
