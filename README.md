@@ -59,7 +59,7 @@
 
 ## ⚔️ ⋆｡°✩ &nbsp;SKILL TREE&nbsp; ✩°｡⋆ ⚔️
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,jupyter,java,git,github,vscode&perline=7" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn,pandas,numpy,jupyter,java,git,github,vscode&perline11" alt="skills"/>
 
 <br/><br/>
 
