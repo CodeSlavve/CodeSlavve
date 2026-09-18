@@ -8,18 +8,17 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,12,18&height=300&section=header&text=PLAYER%20ONE&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E3%83%A4%E3%82%B7%E3%83%A5%20%E2%9C%A6%20AI%20%2F%20ML%20%E2%9C%A6%20CodeSlavve&descSize=20&descAlignY=62" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,12,18&height=300&section=header&text=Yash&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E3%83%A4%E3%82%B7%E3%83%A5%20%E2%9C%A6%20AI%20%2F%20ML%20%E2%9C%A6%20CodeSlavve&descSize=20&descAlignY=62" width="100%" alt="banner"/>
 
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallup.net%2Fwp-content%2Fuploads%2F2018%2F09%2F25%2F572586-The_Witcher_3_Wild_Hunt-Yennefer_of_Vengerberg-The_Witcher.jpg&f=1&nofb=1&ipt=35980675bc4727c164a73aea0e4db37b3c3a14d2303e058eed1f0a6a80ffaab6" width="100%" alt="hero art"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B6+PRESS+START;PLAYER+1%3A+YASH+VERMA;CLASS%3A+AI+%2F+ML+ENGINEER+IN+TRAINING;OBJECTIVE%3A+LAND+AN+INTERNSHIP;FUEL%3A+CHAI+%2B+LATE-NIGHT+GAMING" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=%E2%96%B6+PRESS+START;PLAYER+1%3A+YASH+VERMA;CLASS%3A+AI+%2F+ML+ENGINEER+IN+TRAINING;OBJECTIVE%3A+LAND+AN+INTERNSHIP;FUEL%3A+MUSIC+%2B+LATE-NIGHT+GAMING" alt="typing"/>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=CodeSlavve&color=ff00c8&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
 <img src="https://img.shields.io/badge/STATUS-SEEKING_INTERNSHIP-00f0ff?style=for-the-badge&logo=target&logoColor=black" alt="status"/>
 <img src="https://img.shields.io/badge/LEVEL-3RD_YEAR-39ff14?style=for-the-badge&logo=starship&logoColor=black" alt="level"/>
-<img src="https://img.shields.io/badge/MODE-HARDCORE-ff2e63?style=for-the-badge&logo=gamepad&logoColor=white" alt="mode"/>
 
 <br/><br/>
 
