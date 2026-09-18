@@ -18,7 +18,20 @@
 
 <br/><br/>
 
-<p align="center"> ∧,,,∧<br/> ( ̳• · • ̳)<br/> /&nbsp;&nbsp;づ♡<br/> <b>♡ Nyaa~ thanks for stopping by! ♡</b><br/> <i>Grab a seat, ⭐ a repo, stay a while.</i> </p>
+<table align="center">
+<tr>
+<td  valign="middle">
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2F-19Wlf9R4JcAAAAi%2Fmai-sakurajima-mai.gif&amp;f=1&amp;nofb=1&amp;ipt=9532dc1e015e3498d2ea3e87dade8522d8c5c08f6a12f6cef6635a7905333a37" width="220" alt="Mai"/>
+</td>
+<td align="center" valign="middle">
+∧,,,∧<br/>
+( ̳• · • ̳)<br/>
+/&nbsp;&nbsp;づ♡<br/>
+<b>♡ Nyaa~ thanks for stopping by! ♡</b><br/>
+<i>Grab a seat, ⭐ a repo, stay a while.</i>
+</td>
+</tr>
+</table>
 
 </div>
 
