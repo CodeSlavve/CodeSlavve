@@ -44,12 +44,12 @@ def build(bg_bytes):
         out.append(f'<rect x="{tx}" y="{y}" width="{tw}" height="{row_h}" fill="{fill}" fill-opacity="{op}"/>')
         out.append(f'<line x1="{tx}" y1="{y+row_h}" x2="{tx+tw}" y2="{y+row_h}" stroke="{ACCENT}" stroke-opacity="0.25"/>')
         cy = y + row_h / 2 + 5
-        out.append(f'<text x="{tx+20}" y="{cy}" class="mono" font-size="15" fill="{ACCENT}">{escape(label)}</text>')
+        out.append(f'<text x="{tx+20}" y="{cy}" class="mono" font-size="15" font-weight="700" fill="{ACCENT}" stroke="#000" stroke-width="1" paint-order="stroke" stroke-linejoin="round">{escape(label)}</text>')
         spans = "".join(
             f'<tspan font-weight="{700 if b else 400}">{escape(t)}</tspan>'.replace("  ", "&#160;&#160;")
             for t, b in parts
         )
-        out.append(f'<text x="{tx+label_w+20}" y="{cy}" class="sans" font-size="17" fill="#000000">{spans}</text>')
+        out.append(f'<text x="{tx+label_w+20}" y="{cy}" class="sans" font-size="17" fill="#000000" stroke="#fff" stroke-width="1" paint-order="stroke" stroke-linejoin="round">{spans}</text>')
         y += row_h
     # column divider + outer border
     table_h = head_h + row_h * len(ROWS)
@@ -70,7 +70,8 @@ def build(bg_bytes):
   <g clip-path="url(#c)">
     <image href="data:image/png;base64,{bg_b64}" width="{W}" height="{H}" preserveAspectRatio="xMidYMid slice"/>
     <g transform="translate(0,{dy})">
-      <text x="{tx}" y="64" class="mono" font-size="26" font-weight="700" fill="{ACCENT}" letter-spacing="3">PROXY DOSSIER</text>      {"".join(out)}
+      <text x="{tx}" y="64" class="mono" font-size="26" font-weight="700" fill="{ACCENT}" stroke="#000" stroke-width="3" paint-order="stroke" stroke-linejoin="round" letter-spacing="3">PROXY DOSSIER</text>
+      {"".join(out)}
     </g>
   </g>
 </svg>'''

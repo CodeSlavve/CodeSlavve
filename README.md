@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=d9ff00&height=240&section=header&text=PROXY%20%2F%20YASH&fontSize=64&fontColor=000000&animation=fadeIn&fontAlignY=42&desc=%E3%83%A4%E3%82%B7%E3%83%A5%20%E2%9C%A6%20AI%20%2F%20ML%20%E2%9C%A6%20CodeSlavve&descSize=20&descAlignY=68" width="100%" alt="banner"/>
+<img src="zzz/assets/header.svg" width="100%" alt="PROXY / YASH: AI / ML, CodeSlavve">
 <img src="zzz/assets/image.png" width="100%" alt="hero art"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=D9FF00&center=true&vCenter=true&width=760&lines=%3E+CONNECTING+TO+INTER-KNOT...;%3E+PROXY%3A+YASH+VERMA;%3E+ROLE%3A+AI+%2F+ML+ENGINEER+IN+TRAINING;%3E+HOLLOW+DEPTH%3A+3RD+YEAR;%3E+COMMISSION%3A+SEEKING+AN+INTERNSHIP" alt="typing"/>
@@ -52,10 +51,7 @@
 
 <div align="center">
 
-## 🎭 &nbsp;AGENT ROSTER&nbsp; 🎭
-
 <img src="https://static.wikia.nocookie.net/zenless-zone-zero/images/5/53/Mindscape_Tsukishiro_Yanagi_Full.png/revision/latest/scale-to-width-down/1000?cb=20241106024040" width="100%">
-<img src="https://static.wikia.nocookie.net/zenless-zone-zero/images/1/1a/Mindscape_Alice_Thymefield_Full.png/revision/latest/scale-to-width-down/1000?cb=20250806052141" width="100%">
 
 </div>
 

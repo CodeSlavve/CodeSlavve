@@ -37,7 +37,8 @@ def text_cell(x, y, row_h, text, wrap, cls, size, weight, fill):
     lh = size + 5
     y0 = y + (row_h - len(lines) * lh) / 2 + size
     spans = "".join(f'<tspan x="{x}" y="{y0 + k*lh:.1f}">{escape(l)}</tspan>' for k, l in enumerate(lines))
-    return f'<text class="{cls}" font-size="{size}" font-weight="{weight}" fill="{fill}">{spans}</text>'
+    stroke = 'stroke="#000" stroke-width="1"' if fill == ACCENT else 'stroke="#fff" stroke-width="1"'
+    return f'<text class="{cls}" font-size="{size}" font-weight="{weight}" fill="{fill}" {stroke} paint-order="stroke" stroke-linejoin="round">{spans}</text>'
 
 def chip_cell(x, y, row_h, tags, max_w):
     ch, gap, fs = 22, 6, 12
