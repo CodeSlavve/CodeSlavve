@@ -3,7 +3,7 @@
 <img src="zzz/assets/image.png" width="100%" alt="hero art"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=D9FF00&center=true&vCenter=true&width=760&lines=%3E+CONNECTING+TO+INTER-KNOT...;%3E+PROXY%3A+YASH+VERMA;%3E+ROLE%3A+AI+%2F+ML+ENGINEER+IN+TRAINING;%3E+HOLLOW+DEPTH%3A+3RD+YEAR;%3E+COMMISSION%3A+SEEKING+AN+INTERNSHIP" alt="typing"/>
-
+<!-- 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=CodeSlavve&color=d9ff00&style=for-the-badge&label=TRAFFIC" alt="views"/>
@@ -11,7 +11,9 @@
 <img src="https://img.shields.io/badge/RANK-3RD_YEAR-ff3b7f?style=for-the-badge&logo=starship&logoColor=white" alt="rank"/>
 <img src="https://img.shields.io/badge/CITY-NEW_ERIDU-000000?style=for-the-badge&logo=googlemaps&logoColor=d9ff00" alt="city"/>
 
-<br/><br/>
+<br/>
+-->
+<br/> 
 
 <table align="center">
 <tr>
@@ -31,19 +33,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=d9ff00&height=3" width="100%" alt="divider"/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="zzz/assets/dossier.svg" alt="PROXY DOSSIER: Yash Verma (CodeSlavve), 3rd year engineering student at Bharati Vidyapeeth College of Engineering, specializing in ML and AI, looking for an internship" width="100%">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=d9ff00&height=3" width="100%" alt="divider"/>
-
+ -->
 <div align="center">
   <img src="zzz/assets/discs.svg" alt="DRIVE DISC SLOTS: Python, TensorFlow, PyTorch, scikit-learn, Pandas, NumPy, Jupyter, Java, Git, GitHub, VS Code" width="100%">
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=d9ff00&height=3" width="100%" alt="divider"/>
 
-<div align="center">
+<!-- <div align="center">
   <img src="zzz/assets/board.svg" alt="COMMISSION BOARD: Samadhan Setu (SIH hackathon, AI layer), Kaushalya (skill-sharing and mentorship platform for the arts), Next-Word Prediction LSTM (deployable NLP model)" width="100%">
 </div>
 
@@ -65,7 +67,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=d9ff00&height=3" width="100%" alt="divider"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=d9ff00&height=3" width="100%" alt="divider"/> -->
 
 <div align="center">
 
@@ -77,7 +79,7 @@
 <a href="https://x.com/maalikk__"><img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=d9ff00" alt="x"/></a>
 <a href="https://YOUR_PORTFOLIO"><img src="https://img.shields.io/badge/Portfolio-Status_Panel-d9ff00?style=for-the-badge&logo=vercel&logoColor=black" alt="portfolio"/></a>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <div align="center">
   <img src="zzz/assets/footer.svg" alt="If it's running, let it run. END OF TRANSMISSION. SEE YOU IN THE NEXT HOLLOW" width="100%">
